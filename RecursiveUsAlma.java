@@ -16,7 +16,7 @@ public class RecursiveUsAlma {
         for (int i = 1; i <= b; i++) {
             result *= a;
         }
-        System.out.println(result);
+        System.out.println("Sonuç : " + result);
         return power();
     }
 
